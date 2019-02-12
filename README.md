@@ -81,7 +81,9 @@ def text_to_int(sentence, map_dict, is_target=False):
 
 ## 接下来是`attention.py`:<br>
 具体可以见下图笔记：<br>
-
+![](https://github.com/a414351664/En-Fr-Translation/blob/master/1.jpg)
+![](https://github.com/a414351664/En-Fr-Translation/blob/master/2.jpg)
+![](https://github.com/a414351664/En-Fr-Translation/blob/master/3.jpg)
 这个代码主要在translation_model.py下面改的，主要就是融入了attention模型
 
 ```
